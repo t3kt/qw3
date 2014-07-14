@@ -19,3 +19,5 @@ cam_fovamount	.5	codev2	s6		1	cam fov amount
 quad_opacity	.6	codev2	s30		1	quad opacity
 quad_wireopacity	.4	codev2	s26		1	quad wire opacity
 quad_rollrate	0	codev2	s7		1	quad roll rate
+light_generallevel	.6	codev2	s22		1	general light level
+light_innerlevel	.6	codev2	s18		1	inner light level
