@@ -1,0 +1,9 @@
+alias	path
+bg	postproc/bgconstant
+treenetfill	mats/treenetfillmat
+treenet	mats/treenetmat
+tree	mats/treemat
+path	mats/pathmat
+thresh	mats/threshmat
+threshnet	mats/threshnetmat
+axes	mats/axesmat
