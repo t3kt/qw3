@@ -25,5 +25,7 @@ mod_intensitya	.3	codev2	s26		1	modifier intensity a
 mod_intensityb	.3	codev2	s30		1	modifier intensity b
 mod_centerza	.5	codev2	s28		1	modifier center z a
 mod_centerzb	.5	codev2	s32		1	modifier center z b
+mod_activea	0	codev2	b44			modifier active a
+mod_activeb	0	codev2	b45			modifier active b
 light_generallevel	.6	codev2	s22		1	general light level
 light_innerlevel	.6	codev2	s18		1	inner light level
