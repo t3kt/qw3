@@ -19,6 +19,7 @@ quad_opacity	.6	codev2	s21		1	quad opacity
 quad_wireopacity	.4	codev2	s17		1	quad wire opacity
 quad_rollrate	0	codev2	s7		1	quad roll rate
 quad_scalevariation	0	codev2	s10		1	quad scale variation
+quad_scale	.7	codev2	s14		1	quad scale
 mod_ratea	.3	codev2	s27		1	modifier rate a
 mod_rateb	.3	codev2	s31		1	modifier rate b
 mod_intensitya	.3	codev2	s26		1	modifier intensity a
