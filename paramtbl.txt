@@ -5,25 +5,25 @@ post_bypass	0			1		post bypass
 post_echo_length	0.1	codev2	s1	1	1	echo length
 post_echo_mix	0	codev2	s5	1	1	echo mix
 post_echo_tapbalance	.5			1	1	echo tap balance
-post_stutterlength	0.3	codev2	s29	1		stutter length
-post_stutteron	0	codev2	b29	1		stutter on
+post_stutterlength	0.3			1		stutter length
+post_stutteron	0			1		stutter on
 post_contrast	0			1	1	contrast
-post_saturation	.8	codev2	s31	1	1	saturation
+post_saturation	.8			1	1	saturation
 time_rate	.5	codev2	s4			time rate
 time_pulse_amount	.5	codev2	s8	1		time pulse amount
 time_pulse_rate	.5	codev2	s12	1		time pulse rate
 time_pulse_width	.5	codev2	s16	1		time pulse width
 cam_fovamount	.5	codev2	s6		1	cam fov amount
 quad_rotaterate	.6	codev2	s3			quad rotate rate
-quad_opacity	.6	codev2	s30		1	quad opacity
-quad_wireopacity	.4	codev2	s26		1	quad wire opacity
+quad_opacity	.6	codev2	s21		1	quad opacity
+quad_wireopacity	.4	codev2	s17		1	quad wire opacity
 quad_rollrate	0	codev2	s7		1	quad roll rate
 quad_scalevariation	0	codev2	s11		1	quad scale variation
-mod_ratea	.3	codev2			1	modifier rate a
-mod_rateb	.3	codev2			1	modifier rate b
-mod_intensitya	.3	codev2			1	modifier intensity a
-mod_intensityb	.3	codev2			1	modifier intensity b
-mod_centerza	.5	codev2			1	modifier center z a
-mod_centerzb	.5	codev2			1	modifier center z b
+mod_ratea	.3	codev2	s27		1	modifier rate a
+mod_rateb	.3	codev2	s31		1	modifier rate b
+mod_intensitya	.3	codev2	s26		1	modifier intensity a
+mod_intensityb	.3	codev2	s30		1	modifier intensity b
+mod_centerza	.5	codev2	s28		1	modifier center z a
+mod_centerzb	.5	codev2	s32		1	modifier center z b
 light_generallevel	.6	codev2	s22		1	general light level
 light_innerlevel	.6	codev2	s18		1	inner light level
