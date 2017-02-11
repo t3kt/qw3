@@ -1,5 +1,0 @@
-name	path	param_r	param_g	param_b	param_a	default_r	default_g	default_b	default_a
-quadcolor1	/_/instanceprep/colorgen/quadcolor1	colorr	colorg	colorb	alpha	0	0.73	0.44	1
-quadcolor2	/_/instanceprep/colorgen/quadcolor2	colorr	colorg	colorb	alpha	0.49	1	0.86	1
-quadcolor3	/_/instanceprep/colorgen/quadcolor3	colorr	colorg	colorb	alpha	0.55	1	0.96	0.84
-quadwirecolor	/_/quadwiremat	colorr	colorg	colorb		1	1	1	1

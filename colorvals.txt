@@ -1,5 +1,0 @@
-name	r	g	b	a
-quadcolor1	0	0.73	0.4379999	1
-quadcolor2	0.49	1	0.864	1
-quadcolor3	0.55	1	0.9475001	0.84
-quadwirecolor	1	1	1	1
